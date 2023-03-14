@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "google-ads-test"
+  site-url: "https://daveramseymusic.github.io/google-ads-test"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/daveramseymusic/google-ads-test"
